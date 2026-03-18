@@ -1,0 +1,129 @@
+/* મોબાઈલ રિસ્પોન્સિવ (નાની સ્ક્રીન માટે) */
+@media (max-width: 768px) {
+    .banner-container {
+        flex-direction: column; /* ઈમેજ ઉપર અને ટેક્સ્ટ નીચે આવી જશે */
+    }
+    .banner-content {
+        padding: 30px;
+        text-align: center;
+    }
+    .banner-title {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+    }
+}
+
+
+
+    @media (max-width: 768px) {
+    .photo-main .container {
+        flex-direction: column;
+    }
+    .photo-main-inner h2 {
+        font-size: 22px;
+        bottom: 80px;
+    }
+}
+
+
+/* મોબાઈલ માટે રિસ્પોન્સિવ સેટિંગ */
+@media (max-width: 768px) {
+    .testimonial-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+    .testimonial-card {
+        width: 100%;
+        max-width: 400px;
+    }
+}
+
+
+
+/* મોબાઈલ માટે રિસ્પોન્સિવ */
+@media (max-width: 768px) {
+    .blog-grid {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 768px) {
+    .diamond-main-inner {
+        flex-direction: column; 
+        text-align: center;
+    }
+}
+
+
+
+
+@media (max-width: 768px) {
+    .story-main-inner {
+        flex-direction: column;
+    }
+    
+    .story-item:last-child {
+        flex-direction: row;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .logo-inner .text p {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    .logo-inner img {
+        width: 120px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .vision-wrapper {
+        flex-direction: column;
+        gap: 30px;
+        text-align: center;
+    }
+    .vision-text h2 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 768px) {
+    .mission-wrapper {
+        flex-direction: column-reverse; /* Mobile ma text niche ane image upar rakhva mate */
+        text-align: center;
+        gap: 30px;
+    }
+}
+
+
+
+@media (max-width: 768px) {
+    .three-main-inner {
+        gap: 20px;
+    }
+    .three-main-inner .item {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .filter-container {
+        flex-direction: column; /* મોબાઈલમાં એકની નીચે એક આવી જશે */
+        align-items: flex-start;
+        gap: 15px;
+    }
+    
+    .filter-right-group {
+        width: 100%;
+        justify-content: space-between; /* મોબાઈલમાં શોર્ટિંગ અને કાઉન્ટ સામસામે રહેશે */
+    }
+}
+
