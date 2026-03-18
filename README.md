@@ -16,7 +16,8 @@
 ## 🛠️ Tech Stack & Concepts
 આ પ્રોજેક્ટ **React.js** નો ઉપયોગ કરીને બનાવવામાં આવ્યો છે, જેમાં નીચેના ફીચર્સ સામેલ છે:
 
-* **Functional Components:** 
+* **Functional Components:**
+* **props** 
 * **useState Hook:** પ્રોડક્ટ ફિલ્ટરિંગ, શોપિંગ કાર્ટ અને ડાયનેમિક ડેટા અપડેટ કરવા માટે સ્ટેટ મેનેજમેન્ટ.
 * **useEffect Hook:** API માંથી ડેટા ફેચ કરવા અથવા પેજ લોડ થાય ત્યારે એનિમેશન સેટ કરવા માટે.
 * **React Router:** મલ્ટી-પેજ નેવિગેશન માટે (Home, About, Products).
