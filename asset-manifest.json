@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CARATUS-Jewelry-Website/static/js/main.982c467b.js",
+    "main.js": "/CARATUS-Jewelry-Website/static/js/main.db4dfb23.js",
     "index.html": "/CARATUS-Jewelry-Website/index.html",
-    "main.982c467b.js.map": "/CARATUS-Jewelry-Website/static/js/main.982c467b.js.map"
+    "main.db4dfb23.js.map": "/CARATUS-Jewelry-Website/static/js/main.db4dfb23.js.map"
   },
   "entrypoints": [
-    "static/js/main.982c467b.js"
+    "static/js/main.db4dfb23.js"
   ]
 }
